@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2025-10-01T13:53:11.408-04:00","updated":"2025-10-03T18:39:47.414-04:00"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2025-10-01T13:53:11.408-04:00","updated":"2025-10-03T18:40:52.665-04:00"}
 ---
 
 This is the new home page as I get set up.
