@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/dawns-digital-garden/","tags":["gardenEntry"],"created":"2025-10-01T13:53:11.408-04:00","updated":"2025-10-04T14:40:25.623-04:00"}
+{"dg-publish":true,"permalink":"/dawns-digital-garden/","tags":["gardenEntry"],"created":"2025-10-01T13:53:11.408-04:00","updated":"2025-10-04T16:22:35.742-04:00"}
 ---
 
-
+![Pasted image 20251004162233.png](/img/user/attachments/Pasted%20image%2020251004162233.png)
 **Dr Dawn's Digital Garden!**
 This is the new home page as I get set up to give me a place to more easily "push" ideas I have in progress to the public view.
 
