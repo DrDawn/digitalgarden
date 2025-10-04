@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2025-10-01T13:53:11.408-04:00","updated":"2025-10-04T14:31:17.177-04:00"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2025-10-01T13:53:11.408-04:00","updated":"2025-10-04T14:33:37.063-04:00"}
 ---
 
 
-**Dr Dawns Ideaverse!**
+**Dr Dawns Digital Garden!**
 This is the new home page as I get set up to give me a place to more easily "push" ideas I have in progress to the public view.
 
 Link to Daily Note: [[02-Daily Notes/2025-09-29\|2025-09-29]]
