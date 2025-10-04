@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trying-out-dawn/","created":"2025-10-01T14:36:12.212-04:00","updated":"2025-10-03T18:44:26.095-04:00"}
+{"dg-publish":true,"permalink":"/trying-out-dawn/","created":"2025-10-01T14:36:12.212-04:00","updated":"2025-10-04T14:30:50.368-04:00"}
 ---
 
 
