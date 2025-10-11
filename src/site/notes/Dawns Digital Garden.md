@@ -9,4 +9,4 @@ This is the new home page as I get set up to give me a place to more easily "pus
 Link to Daily Note: [[02-Daily Notes/2025-09-29\|2025-09-29]]
 New Note [[Thinking out loud\|Thinking out loud]] 
 New Note #2: [[Trying out Dawn\|Trying out Dawn]]
-[[Ideas re Limiting Student Access to AI\|Ideas re Limiting Student Access to AI]] 
+[[04-Ideas & Notes/Ideas re Limiting Student Access to AI\|Ideas re Limiting Student Access to AI]] 
