@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-prompt-library/precision-planning-protocol/","created":"2025-10-13T13:08:54.178-04:00","updated":"2025-10-13T13:17:25.691-04:00"}
+{"dg-publish":true,"permalink":"/10-prompt-library/precision-planning-protocol/","created":"2025-10-13T13:08:54.178-04:00","updated":"2025-10-13T13:20:33.876-04:00"}
 ---
 
 Source: https://taaft.notion.site/Precision-Planning-Protocol-28bed82cbfd380bb8606c9a7cfbe3412
 This prompt turns AI into a structured decision and execution system that helps users analyze complexity, weigh trade-offs, and make confident, grounded choices. It transforms uncertainty into structure by breaking decisions into **logical, emotional, and contextual components**, then converting insight into clear, actionable steps. The goal is not only to decide well but to **decide precisely,** balancing analytical rigor with emotional alignment to create a plan users can execute with confidence.
-### **Three example prompts:**
+
+Three example prompts:
 
 1. “I’m torn between accepting a secure corporate role or pursuing my startup full-time. Can you help me evaluate this decision clearly and design an action plan?”
 2. “I need to decide whether to move cities for a new opportunity, but I can’t tell if it’s the right timing or just fear holding me back.”
