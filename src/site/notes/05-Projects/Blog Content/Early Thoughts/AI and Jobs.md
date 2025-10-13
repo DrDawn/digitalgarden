@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/05-projects/blog-content/early-thoughts/ai-and-jobs/","tags":["AI","Business","Education"],"created":"2025-10-05T15:55:19.552-04:00","updated":"2025-10-06T14:10:35.767-04:00"}
+{"dg-publish":true,"permalink":"/05-projects/blog-content/early-thoughts/ai-and-jobs/","tags":["AI","Business","Education"],"created":"2025-10-05T15:55:19.552-04:00","updated":"2025-10-13T11:35:17.018-04:00"}
 ---
+
+**10/13/25**
+"Learn How to Learn with AI"
 
 **10/6/25**
 Watched an "important" podcast video today: **The AI Economist: The Skill You Need to Stay Employed in the Age of AI** (1:05:30) published 10/2/25: "leading AI economist, professor and author **Ajay Agrawal** to unpack whether AI is truly overhyped or if we’re fundamentally underestimating its long-term impact on the economy."
