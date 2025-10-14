@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/05-projects/blog-content/early-thoughts/unbundling-education/","created":"2025-10-14T16:31:15.373-04:00","updated":"2025-10-14T16:48:52.608-04:00"}
+{"dg-publish":true,"permalink":"/05-projects/blog-content/early-thoughts/unbundling-education/","created":"2025-10-14T16:31:15.373-04:00","updated":"2025-10-14T16:49:53.768-04:00"}
 ---
 
 I have been reading the book (New July 2025)  *Reshuffle: Who wins when AI restacks the knowledge economy* . In it, the author gives the example of how technology and buyer demand led to the unbundling of music which was sold in Albums, given the economics of selling individual songs was no longer feasible. (I note that when I was young in the 50's/early 60's, you could still occasionally find a "single" 45 that had an A and B side song only.)  This persisted - the selling of "albums", until Spotify hit the market in the US in 2011.  People no longer had to buy an album that may have had one or more songs they did not like. Spotify "unbundled" the music industry as people could just buy the songs they wanted to hear one at a time. But then Spotify also allowed users to create playlists of songs they wanted to hear in succession. Thus, Spotify re-bundled music, though the big music folks did no benefit, at least at first. 
-Then a few minutes ago, on a "education business" YT channel I follow, the host stated: ...how (Google) Sparkify works, what it means for course creators and educators, and why some call it the “**Spotify of Learning.**”   
+Then a few minutes ago, on a "education business" YT channel I follow, the host stated: ...how (Google) Sparkify works, what it means for course creators and educators, and why some call it the “**Spotify of Learning.**”      
